@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Easy.mp3";		
+f[2]	= "02 West Winds Are Blowing [_].mp3";		
+f[3]	= "03 In the Mood [_].mp3";		
+f[4]	= "04 Jukebox Boogie [_].mp3";		
+f[5]	= "05 Country Clown.mp3";		
+f[6]	= "06 Jukebox Boogie.mp3";		
+f[7]	= "07 Downtown Boogie [_].mp3";		
+f[8]	= "08 Wolf Call Boogie.mp3";		
+f[9]	= "09 Harmonica Jam.mp3";		
+f[10]	= "10 Wolf Call Boogie [_].mp3";		
+f[11]	= "11 So Long Baby, Goodbye [_].mp3";		
+f[12]	= "12 Keep Your Arms Around Me [_].mp3";		
+f[13]	= "13 Got Me a New Woman [_].mp3";		
+f[14]	= "14 She May Be Yours (But She Comes to See Me Sometimes).mp3";		
